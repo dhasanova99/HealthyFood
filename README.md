@@ -3,9 +3,9 @@
 
 ### Data used: 
 
-Sequences: https://polybox.ethz.ch/index.php/s/AsLORlvUbwgBWTq
+Raw Sequences: https://polybox.ethz.ch/index.php/s/AsLORlvUbwgBWTq
 
-Sample metadata: https://polybox.ethz.ch/index.php/s/QqbHeUIpIR0okB8
+Raw Sample metadata: https://polybox.ethz.ch/index.php/s/QqbHeUIpIR0okB8
 
 Scripts for this project are in the directory "JupyterDocs"
 
