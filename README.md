@@ -19,6 +19,8 @@ Data analysis script order:
 - E_Phylogeny
 - F_Alpha_Diversity
 - G_Beta_Diversity
-
+- H_Differential Abundance
+- I_Metagenomics
+- J_Functional Redoundancy and Stability
 
 - Z_GanttChart
