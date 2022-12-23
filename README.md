@@ -1,5 +1,6 @@
-# HealthyFood
+# hEalTHy Food
 
+The project "hEalTHy Food" aims to propose menus to the ETH Mensa adapted to the microbiota of the many students in order to support their health. For this purpose the relationship of fecal microbiome and eating habits of 523 individuals was investigated. From the data biomarkers and host characteristics were derived associated with different diets and their impact on health. This was achieved by performing several analyses to assess microbial alpha and beta diversity as well as differential abundance, meta-genomics and functional redundancy.
 
 ### Data used: 
 
