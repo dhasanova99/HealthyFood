@@ -21,7 +21,9 @@ Data analysis script order:
 - G_Beta_Diversity
 - H_Differential Abundance
 - I_Metagenomics
-- J_Functional Redoundancy and Stability
+- J_Functional Redundancy and Stability
 - K_Machine-learning
-- L_Health Index
+- L_Clustering
+- M_PCA
+- N_Health_Index
 - Z_GanttChart
